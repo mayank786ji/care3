@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="69246" started-at="2021-12-14T08:51:44Z" finished-at="2021-12-14T08:52:53Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="69246" started-at="2021-12-14T08:51:44Z" finished-at="2021-12-14T08:52:53Z">
+      <class name="care.day10.prong">
+        <test-method status="PASS" signature="initializing()[pri:0, instance:care.day10.prong@396a51ab]" name="initializing" is-config="true" duration-ms="4373" started-at="2021-12-14T14:21:44Z" finished-at="2021-12-14T14:21:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializing -->
+        <test-method status="PASS" signature="ticketbooking(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:care.day10.prong@396a51ab]" name="ticketbooking" duration-ms="15108" started-at="2021-12-14T14:21:48Z" data-provider="test1" finished-at="2021-12-14T14:22:04Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[rohit]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[vishwakarma]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[rohitbca2019@gmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[rohit12]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Abcd@123555!!$%]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Abcd@123555!!$%]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ticketbooking -->
+        <test-method status="PASS" signature="closingbrowser()[pri:0, instance:care.day10.prong@396a51ab]" name="closingbrowser" is-config="true" duration-ms="1633" started-at="2021-12-14T14:22:04Z" finished-at="2021-12-14T14:22:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closingbrowser -->
+        <test-method status="PASS" signature="initializing()[pri:0, instance:care.day10.prong@396a51ab]" name="initializing" is-config="true" duration-ms="2371" started-at="2021-12-14T14:22:05Z" finished-at="2021-12-14T14:22:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializing -->
+        <test-method status="PASS" signature="ticketbooking(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:care.day10.prong@396a51ab]" name="ticketbooking" duration-ms="23154" started-at="2021-12-14T14:22:08Z" data-provider="test1" finished-at="2021-12-14T14:22:31Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[satyam]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[soni]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[satyam786ji@gmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[satyam786ji]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Bcd@1234555!!$%]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Bcd@1234555!!$%]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ticketbooking -->
+        <test-method status="PASS" signature="closingbrowser()[pri:0, instance:care.day10.prong@396a51ab]" name="closingbrowser" is-config="true" duration-ms="1930" started-at="2021-12-14T14:22:31Z" finished-at="2021-12-14T14:22:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closingbrowser -->
+        <test-method status="PASS" signature="initializing()[pri:0, instance:care.day10.prong@396a51ab]" name="initializing" is-config="true" duration-ms="3193" started-at="2021-12-14T14:22:33Z" finished-at="2021-12-14T14:22:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializing -->
+        <test-method status="PASS" signature="ticketbooking(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:care.day10.prong@396a51ab]" name="ticketbooking" duration-ms="16240" started-at="2021-12-14T14:22:36Z" data-provider="test1" finished-at="2021-12-14T14:22:52Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[varun]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[goutam]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[varun786ji@gmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[varun786ji]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[qwe@123A555!!$%]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[qwe@123A555!!$%]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ticketbooking -->
+        <test-method status="PASS" signature="closingbrowser()[pri:0, instance:care.day10.prong@396a51ab]" name="closingbrowser" is-config="true" duration-ms="1169" started-at="2021-12-14T14:22:52Z" finished-at="2021-12-14T14:22:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closingbrowser -->
+      </class> <!-- care.day10.prong -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
